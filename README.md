@@ -1,6 +1,7 @@
 # Multiplexer-
-//2X1 multiplexer design
-module mux(i,sel,y);
-input i,sel;
-output y;
-endmodule
+//2X1 multiplexer design in dataflow modeling,gate-level and behavioral 
+
+
+
+Testbench for 2x1 multiplexer 
+
