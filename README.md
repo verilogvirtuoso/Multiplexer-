@@ -3,5 +3,5 @@
 
 
 
-Testbench for 2x1 multiplexer 
+Testbench for 2x1 multiplexer
 
